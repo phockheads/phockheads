@@ -18,7 +18,7 @@ Go to console and write this:
 
 ```sh
 git clone https://github.com/<your github username>/phockheads.git
-cd phockheads
+cd phockheads/docs
 ```
 
 ### Add your phockheads data
