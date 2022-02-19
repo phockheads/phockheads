@@ -7,9 +7,7 @@ exclude: true
 <ul class="assets">
 {% for series in site.series %}
   <li>
-  {% if series.image != '' %}
-    <img src="{{ series.image }}">
-  {% endif %}
+    <img src="{% if series.image != null and series.image != '' %}{{ series.image }}{% else %}{{'assets/placeholder.png' | relative_url}}{% endif %}">
     <a href="series/{{ series.name | downcase }}">
       <b>{{ series.name }}</b>
     </a>
