@@ -59,7 +59,7 @@ Open the website on http://localhost:4000 and see if your assets are displayed c
 To create a PR, you need to add a remote repo first:
 
 ```sh
-git remote add upstream https://github.com/mikeinspace/phockheads.git
+git remote add upstream https://github.com/phockheads/phockheads.git
 ```
 
 Check that it was added correctly:

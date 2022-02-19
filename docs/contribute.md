@@ -4,7 +4,7 @@ title: Contribute
 permalink: /contribute/
 ---
 
-If you want your phockheads featured on this website please [follow the instructions](https://github.com/mikeinspace/phockheads){:target="_blank"}.
+If you want your phockheads featured on this website please [follow the instructions](https://github.com/phockheads/phockheads){:target="_blank"}.
 
 In the case you don't know how to use git, you may submit your work via the form below. 
 
