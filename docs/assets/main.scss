@@ -102,6 +102,9 @@ ul {
     overflow: hidden;
     padding-left: 24px;
   }
+  video {
+    max-width: 300px;
+  }
 }
 
 .grail-card-original {
@@ -180,6 +183,9 @@ button {
     div + div {
       overflow: auto;
       padding-left: 0;
+    }
+    video {
+      max-width: 360px;
     }
     .author {
       font-size: 1rem;

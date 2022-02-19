@@ -29,7 +29,8 @@ Please consider donating bitcoin or Counterparty assets to speedup the manual pr
 name: ASSET_NAME
 author: ASSET_AUTHOR
 image: https://i.imgur.com/ASSET_IMAGE.jpg
-date: YYYY-MM-DD
+video: https://i.imgur.com/ASSET_VIDEO.mp4 # optional
+date: YYYY-MM-DD # mint date
 description: A SHORT DESCRIPTION FOR THE SERIES
 subs: 
   -

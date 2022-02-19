@@ -5,9 +5,15 @@ layout: home
 {% assign xchain = "https://xchain.io/asset" %}
 
 <div class="grail-card clearfix">
-{% if page.image != '' %}
+{% if page.video != null or page.image != null %}
   <div>
+  {% if page.video != null %}
+    <video controls="" loop="" autoplay="" style="border-radius: 5px; border:0; background-color: black; box-shadow: 3px 3px 4px rgba(0,0,0,0.2);">
+      <source src="{{ page.video }}">
+    </video>
+  {% else %}
     <img src="{{ page.image }}">
+  {% endif %}
   </div>
 {% endif %}
   <div>

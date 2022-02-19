@@ -34,7 +34,8 @@ The content of the newly created file should be as follows:
 ---
 name: <Grail card name (e.g. TROLLPHOCKS)>
 author: <Your name or nickname>
-image: <link to assets image>
+image: <Link to assets image>
+video: <Link to assets video. Leave empty or remove if no video is available>
 date: YYYY-MM-DD # Mint date
 description: <A short description of the series>
 subs: 

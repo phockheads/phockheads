@@ -2,6 +2,7 @@
 name: PHOCKS
 author: Mario Dian
 image: https://i.imgur.com/LQg12IQ.jpg
+video: 
 date: 2022-01-16
 description: PHOCKS are the first continuation of PHOCKHEADS Series 1. All hodlers of the grail card will get current and future subs for free!
 subs: 
