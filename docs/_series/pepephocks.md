@@ -1,3 +1,4 @@
+---
 name: PEPEPHOCKS
 author: Pepe Peddler
 image: https://i453j7ne33fhfbk3axr7bkb4ojkxgr3k4ph573t2yd64aeqjxhdq.arweave.net/Rzu0_aTeynKFWwXj8Kg8clVzR2rjz9_uesD9wBIJucc/GRAIL-S.gif
