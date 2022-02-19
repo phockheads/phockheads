@@ -56,6 +56,24 @@ If you have any doubts, please refer to [_series/phocks.md](https://raw.githubus
 
 Commit and push the changes to your repository and create a pull request in the main repo.
 
+### Generate enhanced asset information (optional)
+You can generate a json file that contains enhanced asset information for your grail card on xchain.io ([example](https://xchain.io/asset/phocks)).
+
+Create a file called `<your grail card name goes here>.md` in `xchain` directory (eg. `xchain/trollphocks.md`) with the following content:
+
+```yaml
+---
+layout: xchain
+---
+```
+
+The system will then automatically build a json file on: 
+`https://phockheads.com/xchain/<your grail card name goes here>.json` ([example](https://phockheads.com/xchain/phocks.json))
+
+Open your Counterparty wallet (such as FreeWallet), and edit the description of your grail card so that it contains the above link.
+
+![Change token description](assets/change-description.png)
+
 # Crash course on using git
 The following are basic git commands to get you started.
 
