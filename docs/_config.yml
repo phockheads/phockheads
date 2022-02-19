@@ -34,7 +34,6 @@ github_repo: phockheads
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-datapage-generator
 markdown: kramdown
 
 collections:
