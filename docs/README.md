@@ -26,18 +26,18 @@ Add a following new data collection in the directory `_series/` and name it `<yo
 
 ```yaml
 ---
-name: <Grail card name>
+name: <Grail card name (e.g. TROLLPHOCKS)>
 author: <Your name or nickname>
 image: <link to assets image>
-date: YYYY-MM-DD
+date: YYYY-MM-DD # Mint date
 description: <A short description of the series>
 subs: 
   - 
-    name: <subasset name 1>
+    name: <subasset name 1 (e.g. TROLOLOLO)>
     image: <subasset image 1>
     supply: <subasset supply 1>
   - 
-    name: <subasset name 2>
+    name: <subasset name 2 (e.g. TROLLFACE)>
     image: <subasset image 2>
     supply: <subasset supply 2>
 
@@ -46,7 +46,9 @@ layout: series
 ---
 ```
 
-Please have a look at [_series/phocks.md](_series/phocks.md) as an example.
+*Note: Make sure that the indentation of blocks (starting with "-") under `subs` is correct!*
+
+Please have a look at [_series/phocks.md](https://raw.githubusercontent.com/phockheads/phockheads/main/docs/_series/phocks.md) as an example.
 
 ### Run the site to see if everything works correctly:
 ```sh
