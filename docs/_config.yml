@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Rescued from Namecoin Purgatory to live again on the Bitcoin Blockchain!
 author: Made by Mike In Space & Mario Dian
 telegram_channel:  PHOCKHEADS
-github_username: mikeinspace
+github_username: phockheads
 github_repo: phockheads
 
 #domain: mariodian.github.io     # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
