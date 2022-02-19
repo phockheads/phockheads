@@ -2,6 +2,7 @@
 name: PHOCKVILLAIN
 author: Ndhoz
 image: https://i.imgur.com/DfhIrtq.png
+video: https://i.imgur.com/nkODHrA.mp4
 date: 2022-02-19
 description: Villain are Heroes of the other side. The 11 Sub Assets will be sent out once the supply of the grail cards are fully distributed or the remaining cards burned.
 subs: 
