@@ -45,6 +45,26 @@ subs:
     name: FATHERPEPE
     image: https://arweave.net/IY4p5Aw4-t8aUIb9EsrtAJRNFUW3ajNA1BQXy_kIwMY/nope.png
     supply: 69
+  -
+    name: REEEEEEE
+    image: https://arweave.net/weZj2XDdq0FfGTN7Df2yaLGaQY6xOdBYVQogM_m7BOM/reeeeee.gif
+    supply: 69
+  -
+    name: TROLLFACE
+    image: https://arweave.net/nrR0-Y0aOUXME4SlHe5eChbZvsWiLJK1lhpsO1_K9BA/troll%20face.png
+    supply: 69
+  -
+    name: PROPELLERBEANIE
+    image: https://arweave.net/_q0eACHSPFa3IT-r4KJRgSLcHxb_CJ6mAcxNpC-XhVk/kidpepe.gif
+    supply: 69
+  -
+    name: PEPEHOODIE
+    image: https://arweave.net/sLqbrWqda622_9p2JDAB42EgYZ-helx7V0rg5Hp0J8Y/hood%20pepe.png
+    supply: 69
+  -
+    name: MEMEMAGIC
+    image: https://arweave.net/nt5E1AIcZQboI53jMUey6rQ6rheFhDCri1NmeHE3BW4/MEME%20MAGIC.png
+    supply: 69
 
 # Do NOT edit beyond here
 layout: series
