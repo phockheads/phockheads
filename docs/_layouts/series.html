@@ -7,7 +7,7 @@ layout: home
 <div class="grail-card clearfix">
   <div>
   {% if page.video != null and page.video != "" %}
-    <video controls="" loop="" autoplay="" style="border-radius: 5px; border:0; background-color: black; box-shadow: 3px 3px 4px rgba(0,0,0,0.2);">
+    <video controls="" loop="" autoplay=""{% if page.image != null and page.image != '' %} poster="{{ page.image }}"{% endif %} style="border-radius: 5px; border:0; background-color: black; box-shadow: 3px 3px 4px rgba(0,0,0,0.2);">
       <source src="{{ page.video }}">
     </video>
   {% else %}
