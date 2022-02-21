@@ -70,6 +70,15 @@ subs:
     name: NAPOLEON
     image: https://i.imgur.com/NSUm0UK.jpg
     supply: 100
+  - 
+    name: MONALISA
+    image: https://i.imgur.com/CTSs9PM.jpg
+    supply: 100
+  - 
+    name: EINSTEIN
+    image: https://i.imgur.com/Xq2A8iM.jpg
+    supply: 100
+
 
 # Do NOT edit beyond here
 layout: series
