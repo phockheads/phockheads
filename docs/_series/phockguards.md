@@ -35,7 +35,23 @@ subs:
     supply: 69
   -
     name: MANT
-    image: https://i.imgur.com/AH23cNF.png
+    image: https://i.imgur.com/kx9xD2H.png
+    supply: 69
+  -
+    name: YOND
+    image: https://i.imgur.com/3woxLUY.gif
+    supply: 69
+  -
+    name: COSM
+    image: https://i.imgur.com/wpOozxn.png
+    supply: 69
+  -
+    name: EGO
+    image: https://i.imgur.com/hITb5Us.gif
+    supply: 69
+  -
+    name: RONA
+    image: https://i.imgur.com/ZbZ35tK.png
     supply: 69
     
 # Do NOT edit beyond here
