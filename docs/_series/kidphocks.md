@@ -3,7 +3,7 @@ name: KIDPHOCKS
 author: Jahair
 image: https://i.imgur.com/mpYDUxp.gif
 date: 2022-02-21
-description: KIDPHOCKS, Cartoon Kid Phockheads (42 grails) - All Sub Assets will be sent out once the supply of the grail cards are fully distributed or the remaining cards burned. Exception : MASKTWO, MASKTHREE, MASKFOUR have only 21 of supply, they will be sent out to the first 21 grails sold.
+description: "KIDPHOCKS, Cartoon Kid Phockheads (42 grails) - All Sub Assets will be sent out once the supply of the grail cards are fully distributed or the remaining cards burned. Exception : MASKTWO, MASKTHREE, MASKFOUR have only 21 of supply, they will be sent out to the first 21 grails sold."
 
 subs: 
   -
