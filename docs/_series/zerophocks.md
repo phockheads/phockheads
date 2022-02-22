@@ -4,7 +4,7 @@ author: mellow. mining.
 image: https://i.imgur.com/GQ8DMrA.gif
 date: 2022-02-08
 description: ZEROPHOCKS are the first complete set of animated PHOCKHEADS.  The set incorporates glitch stylings paired with pop and NFT culture.  Original buyers of grail card receive all subassets via airdrop within 24 hours of purchase (usually sooner).    
-subs: 
+subs: 30
   -
     name: COBAIN
     image: https://i.imgur.com/2tlMt2W.gif
@@ -120,6 +120,10 @@ subs:
   -
     name: BTCMFER
     image: https://i.imgur.com/lr8Cnf0.gif
+    supply: 100
+  -
+    name: BTCREATURE
+    image: https://i.imgur.com/jwUNJ2Z.gif
     supply: 100
 
 # Do NOT edit beyond here
