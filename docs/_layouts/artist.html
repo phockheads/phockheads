@@ -42,11 +42,12 @@ permalink: /artists/:artist
   </li>
 {% endfor %}
 {% for asset in filtered %}
+  {% assign index = forloop.index0 %}
   <li class="header"><h3>{{ asset.name }}</h3></li>
   <li class="description">
     <p><a href="{{ asset.url | relative_url }}">VIEW SERIES</a></p>
   </li>
-  {% for sub in filtered[0].subs %}
+  {% for sub in filtered[index].subs %}
   <li>
     <img src="{{ sub.image }}">
     <a href="{{ xchain }}/{{ asset.name }}.{{ sub.name }}" target="_blank" class="overflow-ellipsis">
