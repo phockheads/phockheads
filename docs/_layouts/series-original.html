@@ -36,12 +36,13 @@ layout: home
 <ul class="sub-assets">
 {% assign filtered = page.subs | where_exp: "item", "item.series != 0" %}
 {% for sub in filtered %}
+{% assign artist = site.artists | where_exp: 'item', "item.title == sub.author" %}
   <li>
     <img src="{{ sub.image }}">
     <a href="{{ xchain }}//{{ page.name }}.{{ sub.name }}" target="_blank" class="overflow-ellipsis">
       <b>{{ sub.name }}</b>
     </a>
-    <p class="small">{{ sub.author }}</p>
+    <p class="small">By {% if artist[0] %}<a href="{{ artist[0].url | relative_url }}">{{ sub.author }}</a>{% else %}{{ sub.author }}{% endif %}</p>
     <p class="small">Card {{forloop.index}}, Supply {{ sub.supply }}</p>
   </li>
 {% endfor %}

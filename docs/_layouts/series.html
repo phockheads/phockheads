@@ -4,6 +4,7 @@ layout: home
 
 {% assign xchain = "https://xchain.io/asset" %}
 {% assign video_ext = page.video | split: '.' | last %}
+{% assign artist = site.artists | where_exp: 'item', "item.title == page.author" %}
 
 {% if video_ext == 'mp4' or video_ext == 'm4v' %}
   {% assign video_type = 'mp4' %}
@@ -25,7 +26,7 @@ layout: home
   </div>
   <div>
     <h2>{{ page.name }}</h2>
-    <p class="author">by <b>{{ page.author }}</b></p>
+    <p class="author">by {% if artist[0] %}<a href="{{ artist[0].url | relative_url }}"><b>{{ page.author }}</b></a>{% else %}<b>{{ page.author }}</b>{% endif %}</p>
     <p class="lead">{{ page.description }}</p>
     <p class="small"><a href="{{ xchain }}/{{ page.name }}" target="_blank">VIEW ON XCHAIN</a></p>
   </div>

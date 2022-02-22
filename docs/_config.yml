@@ -39,3 +39,6 @@ markdown: kramdown
 collections:
   series:
     output: true
+  artists:
+    permalink: /artist/:name
+    output: true

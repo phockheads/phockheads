@@ -1,0 +1,59 @@
+---
+layout: home
+permalink: /artists/:artist
+---
+
+{% assign xchain = "https://xchain.io/asset" %}
+{% assign filtered_phockheads = site.series[0].subs | where: 'author', page.title %}
+{% assign filtered = site.series | where: 'author', page.title %}
+
+<div class="artist">
+  <h2>{{page.title}}'s collection</h2>
+  <ul class="social-media-list">
+  {%- if page.twitter -%}
+    <li><a href="https://twitter.com/{{ page.twitter | cgi_escape | escape }}" target="_blank"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">{{ page.twitter | escape }}</span></a></li>
+  {%- endif -%}
+  {%- if page.github -%}
+    <li><a href="https://github.com/{{ page.github | cgi_escape | escape }}" target="_blank"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ page.github | escape }}</span></a></li>
+  {%- endif -%}
+  {%- if page.instagram -%}
+    <li><a href="https://instagram.com/{{ page.instagram | cgi_escape | escape }}" target="_blank"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#instagram' | relative_url }}"></use></svg> <span class="username">{{ page.instagram | escape }}</span></a></li>
+  {%- endif -%}
+  {%- if page.www -%}{% assign www = page.www | split: '://' %}
+    <li><a href="{{ page.www }}" target="_blank">{{ www[1] }}</a></li>
+  {%- endif -%}
+  </ul>
+</div>
+
+<ul class="sub-assets">
+{% if filtered_phockheads[0] %}
+  <li class="header"><h3>PHOCKHEADS</h3></li>
+  <li class="description">
+    <p><a href="{{ site.series[0].url | relative_url }}">VIEW SERIES</a></p>
+  </li>
+{% endif %}
+{% for asset in filtered_phockheads %}
+  <li>
+    <img src="{{ asset.image }}">
+    <a href="{{ xchain }}/PHOCKHEADS.{{ asset.name }}" target="_blank" class="overflow-ellipsis">
+      <b>{{ asset.name }}</b>
+    </a>
+    <p class="small">Card {{forloop.index}}, Supply: {{ asset.supply }}</p>
+  </li>
+{% endfor %}
+{% for asset in filtered %}
+  <li class="header"><h3>{{ asset.name }}</h3></li>
+  <li class="description">
+    <p><a href="{{ asset.url | relative_url }}">VIEW SERIES</a></p>
+  </li>
+  {% for sub in filtered[0].subs %}
+  <li>
+    <img src="{{ sub.image }}">
+    <a href="{{ xchain }}/{{ asset.name }}.{{ sub.name }}" target="_blank" class="overflow-ellipsis">
+      <b>{{ sub.name }}</b>
+    </a>
+    <p class="small">Card {{forloop.index}}, Supply: {{ sub.supply }}</p>
+  </li>
+  {% endfor %}
+{% endfor %}
+</ul>

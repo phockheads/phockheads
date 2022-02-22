@@ -57,6 +57,30 @@ If you have any doubts, please refer to [_series/phocks.md](https://raw.githubus
 
 Commit and push the changes to your repository and create a pull request in the main repo.
 
+### Genarate artist profile (optional)
+If you made more than 2 phockheads you can create your own artist page where you can see all your artwork from each series.
+
+If it doesn't already exist, create `<your name>.md` in `_artists` directory (eg. `_artists/mariodian.md`) with the following content:
+
+```yaml
+---
+title: <your name goes here>
+# your social media username
+twitter: 
+instagram: 
+github:
+# your website including http:// or https://
+www:
+
+# Do NOT edit beyond here
+layout: artist
+---
+```
+
+*Note: `title` has to match `author` tag in `_series/<your name>.md` file!*
+
+If in doubt, please have a look at an [example](https://raw.githubusercontent.com/phockheads/phockheads/main/docs/_artists/mariodian.md).
+
 ### Generate enhanced asset information (optional)
 You can generate a json file that contains enhanced asset information for your grail card on xchain.io ([example](https://xchain.io/asset/phocks)).
 
