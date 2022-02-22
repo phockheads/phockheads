@@ -121,6 +121,11 @@ subs:
     name: BTCMFER
     image: https://i.imgur.com/lr8Cnf0.gif
     supply: 100
+  -
+    name: BTCREATURE
+    image: https://i.imgur.com/jwUNJ2Z.gif
+    supply: 100
+
 
 # Do NOT edit beyond here
 layout: series
