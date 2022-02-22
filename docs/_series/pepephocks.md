@@ -65,6 +65,26 @@ subs:
     name: MEMEMAGIC
     image: https://arweave.net/nt5E1AIcZQboI53jMUey6rQ6rheFhDCri1NmeHE3BW4/MEME%20MAGIC.png
     supply: 69
+  -
+    name: HOMERPEPE
+    image: https://arweave.net/m7DnkLgP6PoaKfWXsYF2EpKqZa5E-FABsOz4Cz_UsKs/HOMERPEPE.gif
+    supply: 69
+  -
+    name: PEPALISA
+    image: https://arweave.net/uN3ISN3_ZxS_ComZ_m1zzdMzOlUgIA1dyQ8McWy-JGE/pepalisa.png
+    supply: 69
+  -
+    name: CLOWNPEPE
+    image: https://arweave.net/irv-u_1hrWoDgevM0nNxpAqlgL_i7mLbdNQuj7Uz1aQ/clown-pepe.gif
+    supply: 69
+  -
+    name: PEPEBOY
+    image: https://arweave.net/EZ5ebgyFddx0Fskx5htP-nMCo9tc4CCpZ54P-sa5WOk/pepeboy.png
+    supply: 69
+  -
+    name: HAIRPEPE
+    image: https://arweave.net/0wHSpo8nU1Uv8uwUupsZkU5NT2mFTnjYdJVeta_rOcU/HAIRPEPE2.png
+    supply: 69
 
 # Do NOT edit beyond here
 layout: series
