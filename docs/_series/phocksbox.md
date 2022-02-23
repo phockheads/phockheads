@@ -1,7 +1,7 @@
 ---
 name: PHOCKSBOX
 author: GRNQRTR
-image: https://arweave.net/Y_Ptd4JAKhuZMUqbbvOQnbGzbrYfRKayvZbvgfgsUqo
+image: https://arweave.net/Y_Ptd4JAKhuZMUqbbvOQnbGzbrYfRKayvZbvgfgsUqo/PHOCKSBOX.gif
 date: 2022-02-18 # Mint date
 description: A box that produces various PHOCKS.
 subs: 
