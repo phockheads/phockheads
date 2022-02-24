@@ -3,7 +3,7 @@ name: PHOCKPARK
 author: Pepe Peddler
 image: https://arweave.net/dtBClMX7YbP4M7QYvZ0GldFRjssimxUWMisKtzgapSM/aw63r3_image.gif
 date: 2022-02-23
-description: A PHOCKHEAD Parody of your favorite Character from South Park.
+description: A PHOCKHEAD Series Parody of all your favorite Character from South Park.
 subs: 
   -
     name: CARTMEN
