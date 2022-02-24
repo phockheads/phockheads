@@ -105,6 +105,10 @@ subs:
     name: MRHANKEY
     image: https://arweave.net/UCBFR4UGY_ikuehFEIryFNyG4j-cJbSb9km941aA9ik/lfcxa2_image.gif
     supply: 50
+ -
+    name: TEST
+    image: https://arweave.net/UCBFR4UGY_ikuehFEIryFNyG4j-cJbSb9km941aA9ik/lfcxa2_image.gif
+    supply: 50
 
 # Do NOT edit beyond here
 layout: series
