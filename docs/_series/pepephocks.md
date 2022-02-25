@@ -85,6 +85,14 @@ subs:
     name: HAIRPEPE
     image: https://arweave.net/0wHSpo8nU1Uv8uwUupsZkU5NT2mFTnjYdJVeta_rOcU/HAIRPEPE2.png
     supply: 69
+  -
+    name: PEPECASH
+    image: https://arweave.net/JOSI66MjyjHvrgYlEdT6VjEcQijpEZCEkT__4dZNwYY/fzrg4a_image.png
+    supply: 77
+  -
+    name: GROYPER
+    image: https://arweave.net/DNnFJo2XNkIXbZ685UT31cxKQJXsvHU45QvUceCmaTI/eq410n_image.png
+    supply: 77
 
 # Do NOT edit beyond here
 layout: series
