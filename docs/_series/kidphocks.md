@@ -35,6 +35,29 @@ subs:
     image: https://i.imgur.com/MaVDI4U.gif
     supply: 99
   
+    name: PIKAPIKA
+    image: https://i.imgur.com/4x9PgS6.gif
+    supply: 99
+    
+    name: CHASE
+    image: https://i.imgur.com/vpjBcId.gif
+    supply: 99
+    
+    name: BART
+    image: https://i.imgur.com/ubbu5kO.gif
+    supply: 55
+    
+    name: PORCOROSSO
+    image: https://i.imgur.com/7JxMUmo.gif
+    supply: 77
+    
+    name: KAKASHI
+    image: https://i.imgur.com/EP6Trfx.gif
+    supply: 99
+    
+    name: GED
+    image: https://i.imgur.com/YFZSmlk.gif
+    supply: 99
     
 # Do NOT edit beyond here
 layout: series
