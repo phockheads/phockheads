@@ -23,7 +23,7 @@ For more information on how to contribute on GitHub [follow this guide](https://
 
 If you prefer a video tutorial on how to contribute to the project, please watch the following video by [Pepe Peddler](http://twitter.com/pepepeddler).
 
-[![Change token description](assets/how-to-contribute-thumb.png)](https://www.screencast.com/t/ozKSmzer3)
+[![How to contribute to PHOCKHEADS by Pepe Peddler](assets/how-to-contribute-thumb.png)](https://www.screencast.com/t/ozKSmzer3)
 
 ## Add your phockheads series
 To add your artwork to the respository, you only need to create a single file. The system will build the website automatically. 
