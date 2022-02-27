@@ -10,12 +10,32 @@ subs:
     image: https://i.imgur.com/3cp3kE8.gif
     supply: 75
   -
+    name: BTCKAT
+    image: https://i.imgur.com/q81ElF0.gif
+    supply: 75
+  -
     name: BUELLER
     image: https://i.imgur.com/s3dixtN.gif
     supply: 75
   -
+    name: CYBERNETIC 
+    image: https://i.imgur.com/3Wq1cBM.gif
+    supply: 75
+  -
+    name: DREAM 
+    image: https://i.imgur.com/2lwO3dx.gif
+    supply: 75
+  -
     name: OFFSIDES
     image: https://i.imgur.com/pp7TZh2.gif
+    supply: 75
+  -
+    name: PWEEE
+    image: https://i.imgur.com/BKQX31p.gif
+    supply: 75
+  -
+    name: SERSMOKE
+    image: https://i.imgur.com/xDdFbtC.gif
     supply: 75
 
 
