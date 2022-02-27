@@ -3,10 +3,10 @@ name: PHOCKPARK
 author: Pepe Peddler
 image: https://arweave.net/dtBClMX7YbP4M7QYvZ0GldFRjssimxUWMisKtzgapSM/aw63r3_image.gif
 date: 2022-02-23
-description: A PHOCKHEAD Series Parody of all your favorite Character from South Park.
+description: A PHOCKHEAD Series Parody of 50 your favorite Characters from SP. Currently in distribution Phase
 subs: 
   -
-    name: CARTMEN
+    name: CARTMAN
     image: https://arweave.net/GzQQ-VIuOo8Rs7pi3xgu1XDhB77dTZl34vaLjhpQJgA/w5110r_image.gif
     supply: 25
   -

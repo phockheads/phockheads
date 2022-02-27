@@ -3,7 +3,7 @@ name: PEPEPHOCKS
 author: Pepe Peddler
 image: https://i453j7ne33fhfbk3axr7bkb4ojkxgr3k4ph573t2yd64aeqjxhdq.arweave.net/Rzu0_aTeynKFWwXj8Kg8clVzR2rjz9_uesD9wBIJucc/GRAIL-S.gif
 date: 2022-02-17
-description: A series of Pepe Phocks inspired by original rare pepes, emots and memes
+description: A series of Pepe Phocks inspired by original rare pepes, fakes, emots and memes.
 subs: 
   -
     name: NAKAMOTO
@@ -92,6 +92,18 @@ subs:
   -
     name: GROYPER
     image: https://arweave.net/DNnFJo2XNkIXbZ685UT31cxKQJXsvHU45QvUceCmaTI/eq410n_image.png
+    supply: 77
+  -
+    name: SALTANDPEPE
+    image: https://arweave.net/t6pJ_EZ9Tnn1zb5VWbG0YT_uQZMIg3sYFBE9zCsVoe4/2tzrqt_image.png
+    supply: 77
+  -
+    name: PEPARARE
+    image: https://arweave.net/682-5HkCt_wMEyjNp5o6XpxTmbFGga90qdp9W2m-uAY/p46ush_image.gif
+    supply: 77
+  -
+    name: TOBIASPEPE
+    image: https://arweave.net/9qb_lD9b5d3G8v9sPVTd-kRtxkG1jFhyS9nzsEC-XPE/e4qtdd_image.png
     supply: 77
 
 # Do NOT edit beyond here
