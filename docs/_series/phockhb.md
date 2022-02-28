@@ -1,7 +1,8 @@
 ---
 name: PHOCKHB
 author: Ndhoz
-image: https://easyasset.art/j/qm0ojx/PHOCKHB.json
+image: https://i.imgur.com/RLn74X6.gif
+date: 2022-02-28
 description: Hanna-Barbera Cartoons, Inc., was an American animation studio and production company. Founded on July 7, 1957 by William Hanna and Joseph Barbera.
 subs: 
   -
