@@ -105,6 +105,26 @@ subs:
     name: MRHANKEY
     image: https://arweave.net/UCBFR4UGY_ikuehFEIryFNyG4j-cJbSb9km941aA9ik/lfcxa2_image.gif
     supply: 50
+  -
+    name: JIMMY
+    image: https://arweave.net/TfWjkPTSUcw-R67qxfqJAmwl8X6HbiYVJ7TgS1FBS1I/q60x92_image.png
+    supply: 50
+  -
+    name: TIMMY
+    image: https://arweave.net/TWaVl_YLW-eu7v1ZB3t_EFuAJ7lQP9pMCKI2n0ii8oc/fm50w9_image.png
+    supply: 50
+  -
+    name: OFFICERBARBRADY
+    image: https://arweave.net/Bt4riN_xmVAgN_naJwQBMWQiQS8g6JBaOA_Kxu9ekfE/w7dr8m_image.png
+    supply: 50
+  -
+    name: STUARTMCCORMICK
+    image: https://arweave.net/Mj8yJOg641pImWHrnV-e0iZbYwJCm84YyjlxxRVYto8/07amlv_image.png
+    supply: 50
+  -
+    name: MRMACKEY
+    image: https://arweave.net/xf7R89aBy6uQbVGadR94boDlj4Gs7PuPtF3toxQ24f4/9fh42w_image.png
+    supply: 50
 
 # Do NOT edit beyond here
 layout: series

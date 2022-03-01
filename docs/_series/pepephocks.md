@@ -105,6 +105,14 @@ subs:
     name: TOBIASPEPE
     image: https://arweave.net/9qb_lD9b5d3G8v9sPVTd-kRtxkG1jFhyS9nzsEC-XPE/e4qtdd_image.png
     supply: 77
+  -
+    name: PEPELETTERA
+    image: https://arweave.net/w8Brw1CdM6mAEuh2DSmbJVTmAn_yUOUTEBzuc0IyRw4/yczz6n_image.gif
+    supply: 77
+  -
+    name: SMELLPEPE
+    image: https://arweave.net/z-1rjzfYiMCiL5GoY6aO3PFX-19OvVS82MQ8TWcEz4E/dfhbgz_image.gif
+    supply: 77
 
 # Do NOT edit beyond here
 layout: series
