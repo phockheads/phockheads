@@ -3,7 +3,7 @@ name: PHOCKGUARDS
 author: m3thod23
 image: https://i.imgur.com/jsqk6fk.gif
 date: 2022-02-17
-description:  Own the Grail card and take all the Phockguards of the galaxy with you (those already there and those to come, minimun 15 subs, tell me wich characters u want to join the crew). Ain't no thing like this, except this !
+description:  Own the Grail card and take all the Phockguards of the galaxy with you. Ain't no thing like this, except this !
 subs: 
   -
     name: STAR
@@ -52,6 +52,18 @@ subs:
   -
     name: RONA
     image: https://i.imgur.com/ZbZ35tK.png
+    supply: 69
+  -
+    name: BUG
+    image: https://i.imgur.com/FKc8197.png
+    supply: 69
+  -
+    name: WARL
+    image: https://i.imgur.com/My3yNwL.png
+    supply: 69
+  -
+    name: BABY
+    image: https://i.imgur.com/rGswJAV.gif
     supply: 69
     
 # Do NOT edit beyond here
