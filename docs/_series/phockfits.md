@@ -7,19 +7,19 @@ date: 2022-03-01
 description: PHOCKFITS is OKIDO's first Phockhead series which is a tribute to the band The Misfits. Contains 4 main characters, namely The Crimson Ghost, Glenn Danzig, Jerry Only and Doyle Wolfgang von Frankenstein.
 subs: 
   -
-    name: PHOCKFITS.CRIMSON
+    name: CRIMSON
     image: https://i.imgur.com/wZwivCs.png
     supply: 69
   -
-    name: PHOCKFITS.GLENN
+    name: GLENN
     image: https://i.imgur.com/cYetpDO.png
     supply: 69
   -
-    name: PHOCKFITS.JERRY
+    name: ERRY
     image: https://i.imgur.com/sqFF5El.png
     supply: 69
   -
-    name: PHOCKFITS.DOYLE
+    name: DOYLE
     image: https://i.imgur.com/Qwbsfk2.png
     supply: 69
   
