@@ -15,7 +15,7 @@ subs:
     image: https://i.imgur.com/cYetpDO.png
     supply: 69
   -
-    name: ERRY
+    name: JERRY
     image: https://i.imgur.com/sqFF5El.png
     supply: 69
   -
