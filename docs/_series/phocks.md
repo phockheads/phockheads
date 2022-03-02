@@ -78,7 +78,14 @@ subs:
     name: EINSTEIN
     image: https://i.imgur.com/Xq2A8iM.jpg
     supply: 100
-
+  - 
+    name: HOWDAREYOU
+    image: https://i.imgur.com/pmA0YQO.jpg
+    supply: 100
+  - 
+    name: CAESAR
+    image: https://i.imgur.com/7GSNmYZ.jpg
+    supply: 100
 
 # Do NOT edit beyond here
 layout: series
