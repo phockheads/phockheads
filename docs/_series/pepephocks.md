@@ -113,6 +113,10 @@ subs:
     name: SMELLPEPE
     image: https://arweave.net/z-1rjzfYiMCiL5GoY6aO3PFX-19OvVS82MQ8TWcEz4E/dfhbgz_image.gif
     supply: 77
+  -
+    name: BBAEPEPE
+    image: https://arweave.net/ObCRIG8MmW0hjCSpRJYTHs1wPI-oAH1fyOcs0fAGTnQ/3jrf3d_image.png
+    supply: 77
 
 # Do NOT edit beyond here
 layout: series
