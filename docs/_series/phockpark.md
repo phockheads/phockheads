@@ -153,6 +153,18 @@ subs:
     name: SHELLY
     image: https://arweave.net/zXKdODpySBnZRvsdb0s3VVswsgEP_s-2d2ucpclc4os/v96lvs_image.png
     supply: 50
+  -
+    name: GIANTDOUCHE
+    image: https://arweave.net/R6lovMOxWhqRhUI3Ijgk_wfrDtPU327zJlfX1YGTX8M/ixd0nv_image.png
+    supply: 50
+  -
+    name: TURDSANDWICH
+    image: https://arweave.net/u119Ge4fN-dxtUsQQIR4mJECb9CTY_pwJGwuBXjzYSI/kim5ds_image.png
+    supply: 50
+  -
+    name: BATDAD
+    image: https://arweave.net/6Hp6R-sEksvhNi710hiwrfUVKT5gg6DCkolG2XnyZw4/g1nvf1_image.png
+    supply: 50
 
 # Do NOT edit beyond here
 layout: series
