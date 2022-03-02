@@ -2,6 +2,7 @@
 name: PHOCKCYBER
 author: KAWABANGGA_F
 image: https://i.imgur.com/oPzi4eQ.gif
+video: https://i.imgur.com/JpNB6Jx.mp4
 date: 2022-03-02
 description: (function repeat() {
   eat ();
