@@ -165,6 +165,26 @@ subs:
     name: BATDAD
     image: https://arweave.net/6Hp6R-sEksvhNi710hiwrfUVKT5gg6DCkolG2XnyZw4/g1nvf1_image.png
     supply: 50
+  -
+    name: CITYWOKGUY
+    image: https://arweave.net/mozgVs7gs8UDf4buHaJtZy8wdrkqp7qrrEx6NNNKB8E/6fxc3t_image.png
+    supply: 50
+  -
+    name: ANONYMOUS821
+    image: https://arweave.net/Ntl123_UMuWKu5cpkw8YJyai6-qfZsINfd8_7xlx8go/owd0tl_image.png
+    supply: 50
+  -
+    name: JESUSCHRIST
+    image: https://arweave.net/yu7F-f5J9yBDpj2P9aF1DEWqa4sBKyfrg3xXEPPXB8c/a8ee7j_image.png
+    supply: 50
+  -
+    name: SATAN
+    image: https://arweave.net/y1NVaisMTFtMFHdT6yq7M_jZR1Is0dZb4n_PpAPiB9U/8oapgj_image.png
+    supply: 50
+  -
+    name: STARVINMARVIN
+    image: https://arweave.net/l7DDvHipDT1mhUq7v7FoB25eSPS1EEpc7TJpAiJs-Sk/cc5xnr_image.png
+    supply: 50
 
 # Do NOT edit beyond here
 layout: series
