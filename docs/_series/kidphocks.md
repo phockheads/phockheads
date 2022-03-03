@@ -43,6 +43,10 @@ subs:
     image: https://i.imgur.com/vpjBcId.gif
     supply: 99
   - 
+    name: HELLINGER
+    image: https://i.imgur.com/Xqkjb6D.png
+    supply: 99
+  - 
     name: BART
     image: https://i.imgur.com/ubbu5kO.gif
     supply: 55
@@ -65,6 +69,38 @@ subs:
   -
     name: KAI
     image: https://i.imgur.com/3l2pATh.gif
+    supply: 99
+  -
+    name: JAY
+    image: https://i.imgur.com/wExpzUH.gif
+    supply: 99
+  -
+    name: LLOYD
+    image: https://i.imgur.com/dyt4WDi.gif
+    supply: 99
+  -
+    name: COLE
+    image: https://i.imgur.com/iT81zH7.gif
+    supply: 99
+  -
+    name: ZANE
+    image: https://i.imgur.com/juKb3n1.gif
+    supply: 99
+  -
+    name: NYA
+    image: https://i.imgur.com/dF7tj9D.gif
+    supply: 99
+  -
+    name: WU
+    image: https://i.imgur.com/6yXYz7A.png
+    supply: 77
+  -
+    name: GARMADON
+    image: https://i.imgur.com/n8wb911.png
+    supply: 77
+  -
+    name: OGGY
+    image: https://i.imgur.com/nPaUemg.png
     supply: 99
     
 # Do NOT edit beyond here
