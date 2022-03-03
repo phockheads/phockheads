@@ -3,7 +3,7 @@ name: PHOCKPARK
 author: Pepe Peddler
 image: https://arweave.net/dtBClMX7YbP4M7QYvZ0GldFRjssimxUWMisKtzgapSM/aw63r3_image.gif
 date: 2022-02-23
-description: A PHOCKHEAD Series Parody of 50 your favorite Characters from SP. Currently in distribution Phase : Grail holders will recieve all 50 characters as a dividends one all grails are distribued. 
+description: A PHOCKHEAD Series Parody of 50 your favorite Characters from SP. Currently in distribution Phase : Grail holders will recieve all 50 characters as a dividends one all grails are distributed. 
 subs: 
   -
     name: CARTMAN
