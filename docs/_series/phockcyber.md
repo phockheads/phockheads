@@ -4,12 +4,7 @@ author: KAWABANGGA_F
 image: https://i.imgur.com/oPzi4eQ.gif
 video: https://i.imgur.com/JpNB6Jx.mp4
 date: 2022-03-02
-description: (function repeat() {
-  eat ();
-  sleep ();
-  drawing ();
-  repeat();
-}) (); Original buyers of grail card will receive all current subassets. 5 subassets and some future surprises.
+description: PHOCKCYBER, who return to Earth nearly a century after a devastating nuclear apocalypse. The first people sent to Earth are a group of juvenile delinquents who encounter descendants of survivors of the nuclear disaster on the ground. Original buyers of grail card will receive all current subassets. 5 subassets and some future surprises.
 subs: 
   - 
     name: NUMBERONE
