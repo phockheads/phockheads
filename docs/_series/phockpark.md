@@ -3,7 +3,7 @@ name: PHOCKPARK
 author: Pepe Peddler
 image: https://arweave.net/dtBClMX7YbP4M7QYvZ0GldFRjssimxUWMisKtzgapSM/aw63r3_image.gif
 date: 2022-02-23
-description: A PHOCKHEAD Series Parody of 50 your favorite Characters from SP. Currently in distribution Phase : Grail holders will recieve all 50 characters as a dividends one all grails are distributed. 
+description: A PHOCKHEAD Series Parody of 50 your favorite Characters from SP. Currently in distribution Phase : Grail holders will recieve all 50 characters as a dividends once all grail cards are distributed. 
 subs: 
   -
     name: CARTMAN
@@ -184,6 +184,26 @@ subs:
   -
     name: STARVINMARVIN
     image: https://arweave.net/l7DDvHipDT1mhUq7v7FoB25eSPS1EEpc7TJpAiJs-Sk/cc5xnr_image.png
+    supply: 50
+-
+    name: SCOTTTENORMAN
+    image: https://arweave.net/yVsjmQIKHr9vvsJbSSxwloknOEG-Q2sNrV20pIagFrw/0t6wjf_image.png
+    supply: 50
+-
+    name: SCUZZLEBUTT
+    image: https://arweave.net/4kVD37OaMEU-lZBMEIpKxoMBzSpCCIpeYGr7FINQPG0/w74r8e_image.png
+    supply: 50
+-
+    name: VERONICACRABTREE
+    image: https://arweave.net/oN6PMW_E2xIf8kA-G-0JjOK0FW_hSh54Gd-YdcPKx8Q/pdlpeu_image.png
+    supply: 50
+-
+    name: MRSLAVE
+    image: https://arweave.net/q-fH7gkX7NT14lkUmhEaL5ys9hOmLjt145wzj2HUvN0/9fyk5l_image.png
+    supply: 50
+-
+    name: SADDAM
+    image: https://arweave.net/tZSXiaB3G92t4GLZXwIzE6hregjxxNTPy9Vqc_yUWuk/862c55_image.gif
     supply: 50
 
 # Do NOT edit beyond here
