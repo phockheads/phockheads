@@ -35,6 +35,7 @@ theme: minima
 plugins:
   - jekyll-feed
 markdown: kramdown
+permalink: /:title/
 
 collections:
   series:
