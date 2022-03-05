@@ -11,7 +11,7 @@ subs:
     image: https://i.imgur.com/dAhmLen.png
     supply: 69
   -
-    name: ICE BEARD
+    name: ICE
     image: https://i.imgur.com/2yQ08vc.png
     supply: 69
   -
