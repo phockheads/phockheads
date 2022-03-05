@@ -37,6 +37,22 @@ subs:
     name: TOMBANGERS
     image: https://i.imgur.com/xO0D5B9.png
     supply: 100
+  -     
+    name: LEMYBANGERS
+    image: https://i.imgur.com/d92cR1g.png
+    supply: 50
+  - 
+    name: JERRYBANGERS
+    image: https://i.imgur.com/EQzsDzn.png
+    supply: 50
+  -
+    name: GOSBANGERS
+    image: https://i.imgur.com/GvY3EPc.png
+    supply: 50
+  -
+    name: JORDANBANGERS
+    image: https://i.imgur.com/ttQC1tI.png
+    supply: 50
 
 # Do NOT edit beyond here
 layout: series
