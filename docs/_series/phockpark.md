@@ -3,7 +3,7 @@ name: PHOCKPARK
 author: Pepe Peddler
 image: https://arweave.net/dtBClMX7YbP4M7QYvZ0GldFRjssimxUWMisKtzgapSM/aw63r3_image.gif
 date: 2022-02-23
-description: A PHOCKHEAD Series Parody of 50 your favorite Characters from SP. Currently in distribution Phase
+description: A PHOCKHEAD Series Parody of 50 your favorite Characters from SP.
 subs: 
   -
     name: CARTMAN
@@ -124,6 +124,86 @@ subs:
   -
     name: MRMACKEY
     image: https://arweave.net/xf7R89aBy6uQbVGadR94boDlj4Gs7PuPtF3toxQ24f4/9fh42w_image.png
+    supply: 50
+  -
+    name: LIANECARTMAN
+    image: https://arweave.net/A0KwNsfZD6UFVZNfwwBwDsYkgaNvRwmgOPHosfspFvw/rkfedg_image.png
+    supply: 50
+  -
+    name: JIMBO
+    image: https://arweave.net/-DCbamyWeglwXidd79vXJfWqSlxKrg065BQgCHcRPTk/zfagy4_image.png
+    supply: 50
+  -
+    name: DIANECHOKSONDIK
+    image: https://arweave.net/wDqOr_HIQxGhgVywdU410OHMKmXOpFLtPbsVOpwge-g/a2idty_image.png
+    supply: 50
+  -
+    name: GERALD
+    image: https://arweave.net/LBT2Q9J7_-oyd46fd8WmN_np44yIcfdISAHyV9L6X9Y/gzlvja_image.png
+    supply: 50
+  -
+    name: SHEILABROFLOVSKI
+    image: https://arweave.net/q2xj8ZjIuU70ypPAn3F1M3jfFyw4-Tx0eqBqzlDxK8s/px3snr_image.png
+    supply: 50
+  -
+    name: NED
+    image: https://arweave.net/OlbEntpspCg6DtsecyO2fALEqvegcPHqCU2D7cp79nA/5gsb37_image.png
+    supply: 50
+  -
+    name: SHELLY
+    image: https://arweave.net/zXKdODpySBnZRvsdb0s3VVswsgEP_s-2d2ucpclc4os/v96lvs_image.png
+    supply: 50
+  -
+    name: GIANTDOUCHE
+    image: https://arweave.net/R6lovMOxWhqRhUI3Ijgk_wfrDtPU327zJlfX1YGTX8M/ixd0nv_image.png
+    supply: 50
+  -
+    name: TURDSANDWICH
+    image: https://arweave.net/u119Ge4fN-dxtUsQQIR4mJECb9CTY_pwJGwuBXjzYSI/kim5ds_image.png
+    supply: 50
+  -
+    name: BATDAD
+    image: https://arweave.net/6Hp6R-sEksvhNi710hiwrfUVKT5gg6DCkolG2XnyZw4/g1nvf1_image.png
+    supply: 50
+  -
+    name: CITYWOKGUY
+    image: https://arweave.net/mozgVs7gs8UDf4buHaJtZy8wdrkqp7qrrEx6NNNKB8E/6fxc3t_image.png
+    supply: 50
+  -
+    name: ANONYMOUS821
+    image: https://arweave.net/Ntl123_UMuWKu5cpkw8YJyai6-qfZsINfd8_7xlx8go/owd0tl_image.png
+    supply: 50
+  -
+    name: JESUSCHRIST
+    image: https://arweave.net/yu7F-f5J9yBDpj2P9aF1DEWqa4sBKyfrg3xXEPPXB8c/a8ee7j_image.png
+    supply: 50
+  -
+    name: SATAN
+    image: https://arweave.net/y1NVaisMTFtMFHdT6yq7M_jZR1Is0dZb4n_PpAPiB9U/8oapgj_image.png
+    supply: 50
+  -
+    name: STARVINMARVIN
+    image: https://arweave.net/l7DDvHipDT1mhUq7v7FoB25eSPS1EEpc7TJpAiJs-Sk/cc5xnr_image.png
+    supply: 50
+  -
+    name: SCOTTTENORMAN
+    image: https://arweave.net/yVsjmQIKHr9vvsJbSSxwloknOEG-Q2sNrV20pIagFrw/0t6wjf_image.png
+    supply: 50
+  -
+    name: SCUZZLEBUTT
+    image: https://arweave.net/4kVD37OaMEU-lZBMEIpKxoMBzSpCCIpeYGr7FINQPG0/w74r8e_image.png
+    supply: 50
+  -
+    name: VERONICACRABTREE
+    image: https://arweave.net/oN6PMW_E2xIf8kA-G-0JjOK0FW_hSh54Gd-YdcPKx8Q/pdlpeu_image.png
+    supply: 50
+  -
+    name: MRSLAVE
+    image: https://arweave.net/q-fH7gkX7NT14lkUmhEaL5ys9hOmLjt145wzj2HUvN0/9fyk5l_image.png
+    supply: 50
+  -
+    name: SADDAM
+    image: https://arweave.net/tZSXiaB3G92t4GLZXwIzE6hregjxxNTPy9Vqc_yUWuk/862c55_image.gif
     supply: 50
 
 # Do NOT edit beyond here
