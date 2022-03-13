@@ -228,7 +228,7 @@ subs:
   -
     name: CSW
     image: https://i.imgur.com/ZSM2z59.jpg
-    supply: 69
+    supply: 42
     author: M0d3D3b0
   -
     name: JIMMYSONG
@@ -238,7 +238,7 @@ subs:
   -
     name: MCAFEE
     image: https://i.imgur.com/KyFoB8J.jpg
-    supply: 75
+    supply: 50
     author: M0d3D3b0
   -
     name: STOOL
