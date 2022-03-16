@@ -117,6 +117,18 @@ subs:
     name: BBAEPEPE
     image: https://arweave.net/ObCRIG8MmW0hjCSpRJYTHs1wPI-oAH1fyOcs0fAGTnQ/3jrf3d_image.png
     supply: 77
+  -
+    name: PEPEKEEPER
+    image: https://arweave.net/KsnM3WBtgeURFAWXg9VmWVSq-z8Q1U1oaKBEGBajRoM/gub8p1_image.png
+    supply: 77
+  -
+    name: FULLMETALPEP
+    image: https://arweave.net/SmNS2de_Qdbg6UF3ZLm_8AnfrMrScP53FltJLSFf26o/lxt3k1_image.png
+    supply: 77
+  -
+    name: WAGMIPEPE
+    image: https://arweave.net/lvQnJjhdYLaHKqxmdzLlULGfMOaviwAMWWcbNnLkrKA/dkubl3_image.gif
+    supply: 77
 
 # Do NOT edit beyond here
 layout: series
