@@ -1,3 +1,14 @@
 ---
-layout: xchain
+layout: null
 ---
+{% assign name = page.name | upcase | split: '.' %}{% assign filtered = site.series | where_exp: "item", "item.name == name[0]" %}{% for series in filtered %}{% assign item = series %}{% endfor %}
+{% raw %}{{% endraw %}
+  "asset":"{{ item.name }}",
+  "image":"{{ item.image }}",
+  "image_large":"{{ item.image }}",
+  "image_title":"{{ item.name }}",
+  "description":"<div style=\"padding-left:20px;\"><h2 style=\"font-family:monospace;font-size:14px;font-weight:bold;\">{{ item.name }}</h2>
+  <br><div><iframe style=\"border:0;\" width=\"400\" height=\"420\" src=\"{{ 'custom/phockchess' | absolute_url}}\"></iframe></div><br><p style=\"font-family:monospace;font-size:12px;\">{{ item.description }}</p><div style=\"padding-right:184px;overflow: hidden;\">{% for subs in item.subs %}<div style=\"font-family:monospace;float: left; padding-right: 16px; padding-bottom: 16px;\"><img style=\"margin-right:4px;\" src=\"{{ subs.image | replace: "/", "\/" }}\" width=\"69\"><br><a href=\"https:\/\/xchain.io\/asset\/{{ item.name }}.{{ subs.name }}\" style=\"width:69px;overflow:hidden;text-overflow:ellipsis;display:block;text-align:center;\">{{ subs.name }}</a></div>{% endfor %}</div></div>",
+  "website":"https:\/\/nanochess.org/toledo_javascript_chess_2.html/",
+  "name":"{{ item.name }}"
+  {% raw %}}{% endraw %}
