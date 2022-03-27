@@ -86,6 +86,14 @@ subs:
     name: CAESAR
     image: https://i.imgur.com/7GSNmYZ.jpg
     supply: 100
+  - 
+    name: KINGOFPOP
+    image: https://i.imgur.com/1GBHqfg.jpg
+    supply: 100
+  - 
+    name: KANE
+    image: https://i.imgur.com/5PjDWWm.jpg
+    supply: 100
 
 # Do NOT edit beyond here
 layout: series
