@@ -38,6 +38,34 @@ subs:
     name: xn--8j8h
     image: https://i.imgur.com/dkjBV7b.jpg
     supply: 100
+  - 
+    name: xn--fv9h
+    image: https://i.imgur.com/jQMpzYZ.jpg
+    supply: 100
+  -
+    name: xn--hr8h
+    image: https://i.imgur.com/5xIY53B.jpg
+    supply: 100
+  - 
+    name: xn--jv9h
+    image: https://i.imgur.com/YZ2J1n0.jpg
+    supply: 100
+  - 
+    name: xn--qs9h
+    image: https://i.imgur.com/viRgH0W.jpg
+    supply: 100
+  -
+    name: xn--6q8h
+    image: https://i.imgur.com/GQos5hG.jpg
+    supply: 100
+  -
+    name: xn--5q8h
+    image: https://i.imgur.com/Sd1uJgj.jpg
+    supply: 100
+  -
+    name: xn--lu9h
+    image: https://i.imgur.com/iZ1t1ir.jpg
+    supply: 100
 
 # Do NOT edit beyond here
 layout: series
