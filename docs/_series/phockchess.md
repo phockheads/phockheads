@@ -3,7 +3,7 @@ name: PHOCKCHESS
 author: Pepe Peddler
 image: https://arweave.net/F1gP5I04epHiesoCzEr7AeVAlA6hkFW1YYaO54KmXV8/fuvc80_image.gif
 date: 2022-03-09
-description: The 1st playable Phockheads chess set on Bitcoin. 12 different Pieces and a Playable Chess Game asset included. Distribution on 1st April, Grail Holders recieve full set. 
+description: The 1st playable Phockheads chess set on Bitcoin. 32 Pieces and a Play asset included. Grail Buyers will recieve full set via drop within 48 hours of purchase.
 
 subs: 
   -

@@ -129,6 +129,22 @@ subs:
     name: WAGMIPEPE
     image: https://arweave.net/lvQnJjhdYLaHKqxmdzLlULGfMOaviwAMWWcbNnLkrKA/dkubl3_image.gif
     supply: 77
+  -
+    name: UFOPEPE
+    image: https://arweave.net/Kp3zc9Y6lrnN32P6JGpo0fEtLY65EUcZUzTFpnTe428/cu0hlh_image.gif
+    supply: 77
+  -
+    name: RAOULDUKEPEP
+    image: https://arweave.net/ZMvS7FeuShch3RzYICRzI-inTaC4BN5900unLVHUVzM/xzgs8g_image.png
+    supply: 77
+  -
+    name: PEPESGYM
+    image: https://arweave.net/F3fLT-0eMsTpnE1hg2si_RjyXEINycTgMC9MyquambQ/5fo9fu_image.png
+    supply: 77
+  -
+    name: BIGGIEPEPE
+    image: https://arweave.net/JduQHAIePSGVZ7Xxthevp1wPJ_kQThg3r6IKV4ls9Uc/hcniz5_image.png
+    supply: 77
 
 # Do NOT edit beyond here
 layout: series
