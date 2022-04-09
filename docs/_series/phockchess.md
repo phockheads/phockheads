@@ -3,7 +3,8 @@ name: PHOCKCHESS
 author: Pepe Peddler
 image: https://arweave.net/F1gP5I04epHiesoCzEr7AeVAlA6hkFW1YYaO54KmXV8/fuvc80_image.gif
 date: 2022-03-09
-description: A Phockheads Inspired Chess Set, plus bonus cards that play out real world chess matches that were won in just 21 moves.
+description: The 1st playable Phockheads chess set on Bitcoin. 32 Pieces and a Play asset included. Grail Buyers will recieve full set via drop within 48 hours of purchase.
+
 subs: 
   -
     name: WHITEKING
@@ -53,6 +54,10 @@ subs:
     name: BLACKPAWN
     image: https://arweave.net/ef1FsAPPJWg3SKOniFnTjKc7A3mtlZ_B2G1Fd8oMLHU/ht49el_image.png
     supply: 800
+  -
+    name: PLAY
+    image: https://i.imgur.com/5YYgvNA.png
+    supply: 100
   
 # Do NOT edit beyond here
 layout: series
