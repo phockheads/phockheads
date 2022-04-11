@@ -102,7 +102,18 @@ subs:
     name: OGGY
     image: https://i.imgur.com/nPaUemg.png
     supply: 99
-    
+  -
+    name: SPONGEBOB
+    image: https://i.imgur.com/qnJyy0y.png
+    supply: 99
+  -
+    name: PINGU
+    image: https://i.imgur.com/XkiQgy4.gif
+    supply: 99
+  -
+    name: GRANDMASTERSMURF
+    image: https://i.imgur.com/v8e6dgR.gif
+    supply: 55
 # Do NOT edit beyond here
 layout: series
 ---
