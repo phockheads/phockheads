@@ -114,7 +114,6 @@ subs:
     name: GRANDMASTERSMURF
     image: https://i.imgur.com/v8e6dgR.gif
     supply: 55
-	
 # Do NOT edit beyond here
 layout: series
 ---
