@@ -23,7 +23,7 @@ subs:
     supply: 100
   -
     name: ANGELICA
-    image:https://arweave.net/7VEcZTWgLHWBSAycdvj5cWjoyJgmqNNJYoMtMRDyw_4/swf9f4_image.gif
+    image: https://arweave.net/7VEcZTWgLHWBSAycdvj5cWjoyJgmqNNJYoMtMRDyw_4/swf9f4_image.gif
     supply: 100
   -
     name: BLOSSOM
