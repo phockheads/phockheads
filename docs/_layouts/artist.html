@@ -48,7 +48,7 @@ permalink: /artists/:artist
     <p><a href="{{ asset.url | relative_url }}">VIEW SERIES</a></p>
   </li>
   {% for sub in filtered[index].subs %}
-  <li>
+  <li {% if asset.size == "larger" %} class="larger" {% endif %}>
     <img src="{{ sub.image }}">
     <a href="{{ xchain }}/{{ asset.name }}.{{ sub.name }}" target="_blank" class="overflow-ellipsis">
       <b>{{ sub.name }}</b>

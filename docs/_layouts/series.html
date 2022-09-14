@@ -36,7 +36,7 @@ layout: home
 
 <ul class="sub-assets">
 {% for sub in page.subs %}
-  <li>
+  <li {% if page.size == "larger" %} class="larger" {% endif %}>
     <img src="{{ sub.image }}">
     <a href="{{ xchain }}/{{ page.name }}.{{ sub.name }}" target="_blank" class="overflow-ellipsis">
       <b>{{ sub.name }}</b>
